@@ -1,0 +1,8 @@
+.in img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid white;
+    box-shadow: 5px 5px 20px grey;
+    margin: 30px 25% 20px 25%;
+}
